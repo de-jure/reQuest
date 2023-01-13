@@ -3,6 +3,7 @@ import os
 
 from src import jobs, saves
 
+
 class TestStringMethods(unittest.TestCase):
 
     def test_savefile_created(self):
