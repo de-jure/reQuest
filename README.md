@@ -1,7 +1,7 @@
 # reQuest
 Game based on API requests
 
-
+[![Unit Tests](https://github.com/de-jure/reQuest/actions/workflows/unittests.yml/badge.svg)](https://github.com/de-jure/reQuest/actions/workflows/unittests.yml)
 
 start
 ```
