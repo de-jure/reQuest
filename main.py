@@ -15,8 +15,8 @@ async def root():
 
 @app.get('/me')
 async def me():
-    get_user_info()
+    return get_user_info()
 
 @app.get('/work')
 async def work():
-    work1()
+    return work1()
